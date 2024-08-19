@@ -1,4 +1,4 @@
-# Módulos
+# Módulos de Python
 Este repositorio almacena todos los módulos que he creado para importar en python
 ## Módulo Básico
 Este módulo es el principal, pues es el que uso siempre en todos mis proyectos
