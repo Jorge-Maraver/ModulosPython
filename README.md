@@ -4,13 +4,13 @@ Este repositorio almacena todos los módulos que he creado para importar en pyth
 Este módulo es el principal, pues es el que uso siempre en todos mis proyectos
 Contiene las siguienetes funciones:
 1. Funciones que devuelven variables con control de excepciones y mansajes:
-   a. DevolverInt()
-   b. DevolverFloat()
-   c. DevolverBool()
+   1. DevolverInt()
+   2. DevolverFloat()
+   3. DevolverBool()
 2. Funciones para trabajar con listas o tuplas:
-   a. ComprobarPosicionLista()
-   b. DevolverPosicionLista()
-   c. MostrarLista()
+   1. ComprobarPosicionLista()
+   2. DevolverPosicionLista()
+   3. MostrarLista()
 3. Funciones para usar en un menú:
-   a. EleccionOpcionMenu()
-   b. PreguntaContinuar()
+   1. EleccionOpcionMenu()
+   2. PreguntaContinuar()
