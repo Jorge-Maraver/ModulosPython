@@ -28,6 +28,7 @@ Almacena todos los módulos relacionados con la combinatora
 ### Módulo Combinatoria
 
 > Depende del módulo básico
+
 Contiene las siguientes funciones:
 1. Funciones que devuelven valores válidos para los cálculos:
    1. Elegir_n()
