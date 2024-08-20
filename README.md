@@ -1,7 +1,8 @@
 # Módulos de Python
-Este repositorio almacena todos los módulos que he creado para importar en python
+Este repositorio almacena todos los módulos que he creado para importar en python.
 ## Módulo Básico
-Este módulo es el principal, pues es el que uso siempre en todos mis proyectos
+Este módulo es el principal, pues es el que uso siempre en todos mis proyectos.
+Además, el resto del módulos también dependen de éste
 Contiene las siguienetes funciones:
 1. Funciones que devuelven variables con control de excepciones y mansajes:
    1. DevolverInt()
@@ -14,3 +15,5 @@ Contiene las siguienetes funciones:
 4. Funciones para usar en un menú:
    1. EleccionOpcionMenu()
    2. PreguntaContinuar()
+---
+Contiene las siguienetes funciones:
