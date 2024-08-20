@@ -5,8 +5,10 @@ Este repositorio almacena todos los módulos que he creado para importar en pyth
 ## Módulo Básico
 
 Este módulo es el principal, pues es el que uso siempre en todos mis proyectos.
-Además, el resto del módulos también dependen de éste
+Además, el resto del módulos también dependen de éste.
+
 Contiene las siguienetes funciones:
+
 1. Funciones que devuelven variables con control de excepciones y mensajes:
    1. DevolverInt()
    2. DevolverFloat()
@@ -30,6 +32,7 @@ Almacena todos los módulos relacionados con la combinatora
 > Depende del módulo básico
 
 Contiene las siguientes funciones:
+
 1. Funciones que devuelven valores válidos para los cálculos:
    1. Elegir_n()
    2. Elegir_p()
