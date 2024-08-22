@@ -34,6 +34,33 @@ Almacena todos los módulos relacionados con la combinatora
 Contiene las siguientes funciones:
 
 1. Funciones que devuelven valores válidos para los cálculos:
+   1. DevolverDimension()
+   2. CrearVector()
+   3. CreacionVectores()
+4. Funciones realizar cálculos con vectores:
+   1. Sumar()
+   2. Restar()
+   3. ProductoVectorPorEscalar()
+   4. ProductoEscalar()
+   5. Modulo()
+   6. Angulo()
+   7. ProductoVectorial()
+   8. Proyeccion()
+   9. Ortogonal()
+
+---
+
+## Álgebra
+
+Almacena todos los módulos relacionados con el álgebra
+
+### Módulo Vectores
+
+> Depende del módulo básico
+
+Contiene las siguientes funciones:
+
+1. Funciones que devuelven valores válidos para los cálculos:
    1. Elegir_n()
    2. Elegir_p()
 3. Función para devolver el factorial de un número:
