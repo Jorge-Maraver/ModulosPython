@@ -1,6 +1,7 @@
 """
-Álgebra Lineal
+Este módulo ha sido enteramente creado por Jorge Maraver
 """
+
 import JM_ModuloBasico as mb
 #Importación de mi propio módulo
 from math import sqrt as rc
