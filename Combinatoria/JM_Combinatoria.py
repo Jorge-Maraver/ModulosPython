@@ -1,7 +1,5 @@
 """
 Este módulo ha sido enteramente creado por Jorge Maraver
-
-La intención es tener funciones que son necesarias muchas veces en la mayoría de proyectos en un mismo lugar y poder acceder fácilmente
 """
 
 import JM_ModuloBasico as mb
